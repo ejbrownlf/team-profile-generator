@@ -1,0 +1,15 @@
+.jumbotron {
+    color: white;
+}
+
+.bg-red { 
+    background: rgb(187, 53, 53);
+}
+
+.container-fluid {
+    width: 70%;
+}
+
+.card-blockchain {
+    margin: auto;
+}
